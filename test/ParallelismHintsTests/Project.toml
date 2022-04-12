@@ -1,0 +1,12 @@
+name = "ParallelismHintsTests"
+uuid = "5ebc813a-7c03-4281-95bc-f49dfcbebc5a"
+authors = ["Takafumi Arakaki <aka.tkf@gmail.com> and contributors"]
+version = "0.1.0-DEV"
+
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+ParallelismHints = "46c41b0e-a2c8-4d01-b46f-57b962fbffd7"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1.6"
