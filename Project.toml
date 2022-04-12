@@ -1,0 +1,7 @@
+name = "ParallelismHints"
+uuid = "46c41b0e-a2c8-4d01-b46f-57b962fbffd7"
+authors = ["Takafumi Arakaki <aka.tkf@gmail.com> and contributors"]
+version = "0.1.0-DEV"
+
+[compat]
+julia = "1.6"
